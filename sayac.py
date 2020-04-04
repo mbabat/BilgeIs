@@ -1,8 +1,14 @@
+# -*- coding: utf-8 -*-
+
+######################################
+# Sesli ve Sessiz Harf Bulma Projesi #
+#          Yazar: Babat              #
+######################################
+
 # OOP kurallarına uyacak şekilde düzenlendi. Class formatına getirildi.
 
 print("Sayaç version = 1.2")
-print("##################################\n" + "#    Sesli Harf Bulma Projesi    #\n" + "#          Yazar: Babat "
-      "  #\n" + "##################################", sep="")
+print("######################################\n" + "# Sesli ve Sessiz Harf Bulma Projesi #\n" + "#          Yazar: Babat              #\n" + "######################################", sep="")
 
 
 class HarfSayaci:
